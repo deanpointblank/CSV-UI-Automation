@@ -1,0 +1,5 @@
+.vscode/launch.json
+.vscode/.ropeproject/config.py
+.vscode/.ropeproject/objectdb
+__pycache__/ExecutionEngine.cpython-37.pyc
+__pycache__/TestCaseDriver.cpython-37.pyc

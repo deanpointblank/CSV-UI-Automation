@@ -1,0 +1,6 @@
+Command," xpath"," additional"
+open,,https://www.google.com
+assert,"//*[@id=""prm""]/div/a",Hello world
+enterData,"//*[@id=""tsf""]/div[2]/div[1]/div[1]/div/div[2]/input",Hello world
+click,"//*[@id=""hptl""]/a[1]",
+,,
